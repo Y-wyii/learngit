@@ -1,0 +1,335 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>少数派</title>
+   <style type="text/css">
+   *{margin:0;padding:0;font-size:15px;font-family:Microsoft YaHei;}
+   #wrap{background:#F0FFF0; margin:0 auto; width:100%;position:absolute;}
+   #header{background:white; width:100%;position:fixed;top:0px;z-index:1; }
+   #mainbody{background:#F8F8FF; width:100%; padding:40px 10px; overflow:hidden;position:absolute;top:110px; }
+   #footer{background:white; width:100%;overflow:hidden;position:absolute;top:3120px; border:1px solid #eee9e9; }
+   
+   .logo{width:100%;height:70px; background:#252525;}
+   .list{width:100%;height:40px; background:#FFFFFF; border:1px solid #eee9e9; }
+   
+   ul{list-style:none;}
+   ul li a {color:black; border:1.5px solid #eee9e9; width:157px; height:40px;line-height:40px; font-size:12px;  text-align:center;text-decoration:none;display:block;margin:0px;  }
+	 ul li a:hover{color:#B22222;}
+	 a:hover{color:#B22222;}
+	 ul li {float:left; width: 157px; height:40px;  text-indent: 10px;}
+	 
+	 h6:hover{color:#EE0000;text-decoration:underline;font-family:Microsoft YaHei;}
+   
+   .up1{width:50%; float:left; }
+   .up2{width:25%; float:left; }
+   
+   .bottom5{width:90%;padding:0 5% 10%; }
+   .top5{width:90%;padding:0 5% 10%; }
+   
+   .left{width:750px;background:#F8F8FF;float:left;margin-right:150px;position:relative;left:5%;}
+   .right{width:300px;background:#F8F8FF;float:left;position:relative;}
+   
+   .kuai{width:750px;height:480px;background:white;position:relative;margin:20px 20px 0 0;border:1px solid #eee9e9;}
+   .okuai{width:750px;height:480px;background:white;position:relative;margin:0px 20px 0 0;border:1.5px solid #eee9e9;}
+   .bkuai{border:1.5px solid #eee9e9;width:750px;height:70px;line-height:80px;background:white;position:relative;margin:20px 20px 0 0;text-align:center;font-size:17px;color:black;padding:auto;}
+   .rkuai{width:100%;background:#F8F8FF;position:relative;margin:14px 15px 0 0;}
+   
+   .circle{border-radius:40px;width:40px;height:40px;margin:20px 20px 0 0;}
+   .rcircle{border-radius:25px;width:25px;height:25px;margin:10px 10px 0 0;}
+   .chcekcircle{color:white;font-size:12px;text-align:center;line-height:27.5px;border:1px solid white;border-radius:25px;width:99px;height:27px;margin:10px 10px 0 0;}
+   .chcekcircle:hover{background:white;color:black;}
+   .content{width:95%;height:480px;background:white;position:relative;left:20px;}
+   
+   #topp{width:100%;}
+   #textt{float:right;margin:27px 30px 0px 0px;position:relative;right:595px;}
+   #textt p:hover{text-decoration:underline;}
+   #rtextt{float:right;margin:15px 15px 0px 0px;position:relative;right:190px;}
+   #rtextt p:hover{text-decoration:underline;}
+   .rtop{margin:15px 15px 0px 0px;position:relative;}
+   
+   img {opacity:1;filter(alpha=100)}
+   img:hover{filter:alpha(Opacity=80);-moz-opacity:0.8;opacity: 0.8;} 
+   
+   .bicon{position:relative;left:38%;}
+   .btxt{position:relative;left:25%;}
+   .btxt a:hover{text-decoration:underline;}
+   
+   .ftxt{position:relative;width:100%;margin:10px 37%;color:gray;}
+   .ftxt a:hover{text-decoration:underline;color:gray;}
+
+   </style>
+</head>
+
+
+<body>
+<div id="wrap">
+   <div id="header">
+        <div class="logo" style="position:relative;">
+          <img src="ppai/title.png" style="margin:15px 30px;" />
+          <img src="ppai/search.png" style="position:absolute;left:82%; top:42%" />
+          <div class="chcekcircle" style="position:absolute;left:85%;top:15px;width:65px;">登录</div>
+        </div>
+        
+        <div class="list">
+             <ul>
+               <li><a href="#"><strong>专题广场</strong></a></li>
+               <li><a href="#"><strong>Matrix</strong></a></li>
+               <li><a href="#"><strong>效率工具</strong></a></li>
+               <li><a href="#"><strong>手机摄影</strong></a></li>
+               <li><a href="#"><strong>生活方式</strong></a></li>
+               <li><a href="#"><strong>  游戏  </strong></a></li>
+               <li><a href="#"><strong>  硬件  </strong></a></li>
+               <li><a href="#"><strong>  人物  </strong></a></li>
+             </ul>
+        </div>
+   </div>
+   
+  <div id="mainbody">
+        <div class="pic_up">
+             <div class="up1">                  
+                    <a href=""><img src="ppai/1.jpg" width=100% style="opacity:1;filter(alpha=100)"/></a>
+             </div>
+             <div class="up2">
+                  <div class="bottom5">
+                       <a href=""><img src="ppai/2.jpg" width=100% style="opacity:1;filter(alpha=100)" /></a>
+                  </div>
+                  
+                  <div class="top5">
+                       <a href=""><img src="ppai/4.jpg" width=100% style="opacity:1;filter(alpha=100)" /></a>
+                  </div>
+             </div>
+             <div class="up2">
+                  <div class="bottom5">
+                       <a href=""><img src="ppai/3.jpg" width=100% style="opacity:1;filter(alpha=100)" /></a>
+                  </div>
+                  
+                  <div class="top5">     
+                       <a href=""><img src="ppai/5.jpg" width=100%  style="opacity:1;filter(alpha=100)"/></a>
+                  </div>
+             </div>
+        </div>
+        
+        <div class="left">
+        	<div class="okuai">
+        		<div class="content">
+        			<div id="topp">
+        		    <img src="ppai/t1.png" class="circle"  />
+        		    <div id="textt">
+                  <p style="font-size:12px;">刘威尼</p>
+                  <a style="color:gray;font-size:12px;">4小时前</a>
+                </div>
+        		  </div>
+        		  <a href=""><img src="ppai/firewatch.png" style="width:100%;margin:20px 0 ;" /></a>
+        		  <h6 style="font-size:23px">我也想成为一名逃避现实的「看火人」Matrix精选</h6>
+        		  <p style="font-size:16px;margin:12px 0;color:gray">我确实动心了，也想逃避现实，远离生活中的各种烦心事，尽管我不能真正成为一名看火人，那就让我在这款步行模拟佳作里暂时成为一名看火人吧。</p>
+        		  <div>
+        		  <p style="font-size:12px;margin:18px 0 ;color:gray;float:left;">出自<a href="#" style="font-size:12px;color:red"> 游戏人生</a></p>
+        		  <img src="ppai/com.png" style="margin:18px 0 ;float:right;" />
+        		  <img src="ppai/zan.png" style="margin:18px 0 ;float:right;" />
+              </div>
+        		</div>
+        	</div>
+        	
+        <div class="kuai">
+        		<div class="content">
+        			<div id="topp">
+        		    <img src="ppai/t2.png" class="circle"  />
+        		    <div id="textt">
+                  <p style="font-size:12px;">沨沄极客</p>
+                  <a style="color:gray;font-size:12px;">9小时前</a>
+                </div>
+        		  </div>
+        		  <a href=""><img src="ppai/forune.jpg" style="width:100%;margin:20px 0 ;" /></a>
+        		  <h6 style="font-size:23px">记一笔账盖一座楼，用游戏帮你养成记账习惯：记账城市</h6>
+        		  <p style="font-size:16px;margin:12px 0;color:gray">你是不是像我一样，每每想记录自己的收支，但是一段时间下来总是无法坚持？跟随「记账城市」的脚步来建一座城市吧，将记账玩成一个养成游戏。</p>
+        		  <div>
+        		  <p style="font-size:12px;margin:18px 0 ;color:gray;float:left;">出自<a href="#" style="font-size:12px;color:red"> 游戏人生</a></p>
+        		  <img src="ppai/com.png" style="margin:18px 0 ;float:right;" />
+        		  <img src="ppai/zan.png" style="margin:18px 0 ;float:right;" />
+              </div>
+              
+        		</div>
+        	</div>
+        	
+        <div class="kuai">
+        		<div class="content">
+        			<div id="topp">
+        		    <img src="ppai/t3.jpg" class="circle"  />
+        		    <div id="textt">
+                  <p style="font-size:12px;">CYfoxcat</p>
+                  <a style="color:gray;font-size:12px;">9小时前</a>
+                </div>
+        		  </div>
+        		  <a href=""><img src="ppai/quadro.jpg" style="width:100%;margin:20px 0 ;" /></a>
+        		  <h6 style="font-size:23px">Quadro，让每一台电脑都拥有 Touch Bar | App+1</h6>
+        		  <p style="font-size:16px;margin:12px 0;color:gray">Quadro 是效率工具的一次有益尝试，它将 Touch Bar 带来的智能化、可视化快捷操作提供给了更多的电脑用户。</p>
+        		  <div>
+        		  <p style="font-size:12px;margin:18px 0 ;color:gray;float:left;">出自<a href="#" style="font-size:12px;color:red"> 游戏人生</a></p>
+        		  <img src="ppai/com.png" style="margin:18px 0 ;float:right;" />
+        		  <img src="ppai/zan.png" style="margin:18px 0 ;float:right;" />
+              </div>
+              
+        		</div>
+        </div>
+        
+        <div class="kuai">
+        		<div class="content">
+        			<div id="topp">
+        		    <img src="ppai/t4.jpg" class="circle"  />
+        		    <div id="textt">
+                  <p style="font-size:12px;">老麦</p>
+                  <a style="color:gray;font-size:12px;">1天前</a>
+                </div>
+        		  </div>
+        		  <a href=""><img src="ppai/pai.jpg" style="width:100%;margin:20px 0 ;" /></a>
+        		  <h6 style="font-size:23px">第五个 3.14，少数派社区化成就达成 Matrix精选</h6>
+        		  <p style="font-size:16px;margin:12px 0;color:gray">为什么要在这个时候，选择重构一个内容社区，为什么总是做这种逆潮流的事，这背后有我们的偏执，更有我们的思考。</p>
+        		  <div>
+        		  <p style="font-size:12px;margin:18px 0 ;color:gray;float:left;">出自<a href="#" style="font-size:12px;color:red"> 游戏人生</a></p>
+        		  <img src="ppai/com.png" style="margin:18px 0 ;float:right;" />
+        		  <img src="ppai/zan.png" style="margin:18px 0 ;float:right;" />
+              </div>
+              
+        		</div>
+        	</div>
+        	
+        <div class="kuai">
+        		<div class="content">
+        			<div id="topp">
+        		    <img src="ppai/t5.jpg" class="circle"  />
+        		    <div id="textt">
+                  <p style="font-size:12px;">CYfoxcat</p>
+                  <a style="color:gray;font-size:12px;">1天前</a>
+                </div>
+        		  </div>
+        		  <a href=""><img src="ppai/taskade.jpg" style="width:100%;margin:20px 0 ;" /></a>
+        		  <h6 style="font-size:23px">Taskade，最简洁的待办清单丨App+1</h6>
+        		  <p style="font-size:16px;margin:12px 0;color:gray">Taskade 就是电子世界里的一张纸，如果你不需要通知提醒、应用互动等复杂功能的话，用它静静地记下全部要做的事情就好。</p>
+        		  <div>
+        		  <p style="font-size:12px;margin:18px 0 ;color:gray;float:left;">出自<a href="#" style="font-size:12px;color:red"> 游戏人生</a></p>
+        		  <img src="ppai/com.png" style="margin:18px 0 ;float:right;" />
+        		  <img src="ppai/zan.png" style="margin:18px 0 ;float:right;" />
+              </div>
+              
+        		</div>
+        </div>
+        
+        <div class="bkuai"><a>加载更多</a></div>
+        	
+        </div>
+        
+        <div class="right">
+        	<h3 style="font-size:15px;margin:0px 0 ;color:black;">Matrix精选</h3><br />
+        	<hr style=" height:2px;width:80px;border:none;border-top:2px solid black;float:left;" />
+        	<hr style=" height:2px;width:220px;border:none;border-top:2px solid #eee9e9;float:right;" />
+        	<div class="rkuai">
+        	  <h6 style="font-size:16px;">Launcher，插件伴侣</h6>
+              <div id="topp">
+        		    <img src="ppai/rt1.jpg" class="rcircle"  />
+        		    <div id="rtextt">
+                  <p style="color:gray;font-size:10px;">Yu Zhou</p>
+                </div>
+        		  </div>
+          </div>
+          
+        <div class="rkuai">
+        	  <h6 style="font-size:16px;">私人游戏机编年史</h6>
+              <div id="topp">
+        		    <img src="ppai/rt2.jpg" class="rcircle"  />
+        		    <div id="rtextt">
+                  <p style="color:gray;font-size:10px;">陆河深</p>
+                </div>
+        		  </div>
+        </div>
+        
+        <div class="rkuai">
+        	  <h6 style="font-size:16px;">在番茄土豆被苹果下架一个月里发生了什么</h6>
+              <div id="topp">
+        		    <img src="ppai/rt3.jpg" class="rcircle"  />
+        		    <div id="rtextt">
+                  <p style="color:gray;font-size:10px;">唠叨小明</p>
+                </div>
+        		  </div>
+        </div>
+        
+        <div class="rkuai">
+        	  <h6 style="font-size:16px;">Matrix每周精选|第46期</h6>
+              <div id="topp">
+        		    <img src="ppai/rt4.jpg" class="rcircle"  />
+        		    <div id="rtextt">
+                  <p style="color:gray;font-size:10px;">机器人</p>
+                </div>
+        		  </div>
+        </div>
+        
+        <div class="rkuai">
+        	  <h6 style="font-size:16px;">每一位战友，都是守望先锋</h6>
+              <div id="topp">
+        		    <img src="ppai/rt5.jpeg" class="rcircle"  />
+        		    <div id="rtextt">
+                  <p style="color:gray;font-size:10px;">北号鸟</p>
+                </div>
+        		  </div>
+        </div>
+        <br />
+         <div>
+           <div><h3 style="font-size:15px;margin:0px 0 ;color:black;float:left">推荐专题</h3></div>
+           <div style="float:right;margin:0;color:gray;">查看全部</div><br /><br />
+           <hr style=" height:2px;width:60px;border:none;border-top:2px solid black;float:left;" />
+        	 <hr style=" height:2px;width:240px;border:none;border-top:2px solid #eee9e9;float:right;" />
+         </div> 
+         <br />
+         <div class="rkuai" style="position:relative;">
+             <img src="ppai/tj1.png" />
+             <div class="chcekcircle" style="position:absolute;  left:100px; top:81.5px">查看专题</div>
+         </div>
+         
+         <div class="rkuai" style="position:relative;">
+             <img src="ppai/tj2.png" />
+             <div class="chcekcircle" style="position:absolute;  left:100px; top:81.5px">查看专题</div>
+         </div>
+        
+         <div class="rkuai" style="position:relative;">
+             <img src="ppai/tj3.png" />
+             <div class="chcekcircle" style="position:absolute;  left:100px; top:81.5px">查看专题</div>
+         </div>
+        
+         <div class="rkuai" style="position:relative;">
+             <img src="ppai/tj4.png" />
+             <div class="chcekcircle" style="position:absolute;  left:100px; top:81.5px">查看专题</div>
+         </div>
+         
+        </div>
+               
+  </div>
+   
+   <div id="footer">
+   	  <div class="bicon">
+          <img src="ppai/b1.png" style="margin:40px 15px;" />
+          <img src="ppai/b2.png" style="margin:40px 15px;" />
+          <img src="ppai/b3.png" style="margin:40px 15px;" />
+          <img src="ppai/b4.png" style="margin:40px 15px;" /><br />
+      </div>
+      <div class="btxt">
+          <a style="margin:10px 50px;font-size:14px">作者招聘</a>
+          <a style="margin:10px 50px;font-size:14px">用户协议</a>
+          <a style="margin:10px 50px;font-size:14px">Matrix FAQ</a>
+          <a style="margin:10px 50px;font-size:14px">商务合作</a><br />
+      </div>
+      <div class="ftxt">
+          <p style="margin:5px;font-size:12px">@2013-2017<a style="margin:5px;font-size:12px">少数派</a><a style="margin:5px;font-size:12px">| 粤ICP备09128966号-4 |</a>CC BY-NC 4.0</p>
+      </div>
+      
+   </div>
+</div>
+
+
+
+
+</body>
+
+
+</html>
